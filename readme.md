@@ -2,12 +2,12 @@
 
 ## Objectives: Creating a game which 
 
-### 1 player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
+## 1-player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
 -----------------------------------------------------------------------------------------
 
 **OR**
 
-## 2 player game takes input from one player and then another player have to make guesses
+## 2-player game takes input from one player and then another player have to make guesses
 -----------------------------------------------------------------------------------------		
 * if it is **_case 1_**, one player can input the range of numbers, _e.g._ inputting 100 would mean the answer could lie within _1-100_, followed by input of **_THE NUMBER_** )
 
@@ -15,9 +15,9 @@
 
 In both of the cases above, when input is received by program, it compares with **_THE NUMBER_** and then prompt a hint suggesting whether the input is 
 
-... Correct.
-... Greater than,
-... Less than, **_THE NUMBER_**
+* Correct.
+* Greater than,
+* Less than, **_THE NUMBER_**
 
 Once a guess is made, the subsequent range of remaining numbers is narrowed down to the new guess and the other end of the boundary. If the next guess is out of range, a message will be prompted to alert the player.
 
