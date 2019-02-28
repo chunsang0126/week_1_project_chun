@@ -2,11 +2,11 @@
 
 ### Objectives: Creating a game which 
 
-## Alt-1 player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
+## Alt- 1 player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
 
 **OR**
 
-##Alt-2 player game takes input from one player and then another player have to make guesses
+## Alt- 2 player game takes input from one player and then another player have to make guesses
 		
 ..*if it is **_case 1_**, one player can input the range of numbers, _e.g._ inputting 100 would mean the answer could lie within _1-100_, followed by input of **_THE NUMBER_** )
 
