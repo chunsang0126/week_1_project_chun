@@ -1,6 +1,8 @@
 # Topic: Guess The Number Game
 
-![alt text] (https://github.com/chunsang0126/week_1_project_chun/photo.jpg)
+![alt text][logo]
+
+[logo]: https://github.com/chunsang0126/week_1_project_chun/photo.jpg
 
 ## Objectives: Creating a game which 
 
