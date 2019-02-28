@@ -2,17 +2,15 @@
 
 ###Objectives: Creating a game which 
 
-	##Alt-1 player game
-	the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
+##Alt-1 player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
 
-	**OR**
+**OR**
 
-	##Alt-2 player game
-	takes input from one player and then another player have to make guesses
+##Alt-2 player game takes input from one player and then another player have to make guesses
 		
-	..*if it is **_case 1_**, one player can input the range of numbers, e.g. inputting 100 would mean the answer could lie within _1-100_, followed by input of **_THE NUMBER_** )
+..*if it is **_case 1_**, one player can input the range of numbers, e.g. inputting 100 would mean the answer could lie within _1-100_, followed by input of **_THE NUMBER_** )
 
-	..*for the game to make sense, we could by default limit the number of guesses which varies with the range be picked.
+..*for the game to make sense, we could by default limit the number of guesses which varies with the range be picked.
 
 	 In both of the cases above, when input is received by program, it compares with **_THE NUMBER_** and then prompt a hint suggesting whether the input is 
 
