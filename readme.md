@@ -4,15 +4,12 @@
 
 [logo]: ./photo.jpg
 
-## Objectives: Creating a game which 
+## Objectives: Creating a game 
+---------------------------------------
 
-## 1-player game the program itself automatically generates THE NUMBER for a player to guess,where the number of guesses is fix by default
------------------------------------------------------------------------------------------
 
-**OR**
-
-## 2-player game takes input from one player and then another player have to make guesses
------------------------------------------------------------------------------------------		
+## 2-player game takes input (range) from one player and then another player have to guess it right
+-----------------------------------------------------------------------------------------------------------------------------
 * if it is **_case 1_**, one player can input the range of numbers, _e.g._ inputting 100 would mean the answer could lie within _1-100_, followed by input of **_THE NUMBER_** )
 
 * for the game to make sense, we could by default limit the number of guesses which varies with the range be picked.
@@ -34,8 +31,9 @@ When the player runs out of guesses before getting **_THE NUMBER_**, he loses an
 # Flow of Code
 
 	
-1. Randomly generate a number within a range --- some functions can do that
-2. Receiving input from player
-3. Comparing that input with **_THE NUMBER_**
-4. Prompting message regarding the results, until running out of guesses
-5. **End Game** and prompt **New Game**
+1. Randomly generate a number within a range ---  some function can do that
+2. Receiving input from player --- input()
+3. Comparing that input with **_THE NUMBER_** --- if / while loops
+4. Prompting message regarding the results, until running out of guesses --- if / while loops
+5. **End Game** and prompt **New Game** --- ???
+6. Error handling --- if loops + print()
