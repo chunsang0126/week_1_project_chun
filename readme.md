@@ -1,4 +1,4 @@
-# Topic: Guess The Number Game
+# Topic: Guess The Number Game. :rocket:
 
 ![alt text][logo]
 
@@ -37,3 +37,6 @@ When the player runs out of guesses before getting **_THE NUMBER_**, he loses an
 4. Prompting message regarding the results, until running out of guesses --- if / while loops
 5. **End Game** and prompt **New Game** --- ???
 6. Error handling --- if loops + print()
+
+## Link to slides 
+[slides]https://slides.com/chunsangngai
